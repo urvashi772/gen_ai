@@ -26,7 +26,7 @@ The application follows a 5-step pipeline to simulate a real-world interview env
 
  **⚙️ Installation & Setup**
 * 1. Clone the Repo:
-     Bashgit clone https://github.com/your-username/ai-voice-interviewer.git
+     Bashgit clone https://github.com/urvashi772/ai-voice-interviewer.git
      cd ai-voice-interviewer
 * 2. Install Required Packages
     Ensure you have FFmpeg installed on your system (required for Whisper and audio processing).
